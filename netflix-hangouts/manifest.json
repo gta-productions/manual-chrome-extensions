@@ -1,0 +1,32 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "manifest_version": 2,
+  "name": "Netflix Hangouts",
+  "icons": {
+    "16": "icon_16.png",
+    "48": "icon_48.png",
+    "128": "icon_128.png"
+  },
+  "version": "0.5",
+  "description": "This extension makes it look like you’re on a conference call, but in reality, you are just watching Netflix. Netflix Hangouts is the web’s first product to safely watch Netflix at work. This extension places your Netflix video inside one frame of a fake video conference call, making it look like you are at work while you’re really just watching Netflix. It’s simple to use: 1) Go to Netflix and start watching any show 2) Click our extension icon to change the page layout to mimic a hangout call 3) Watch Netflix",
+  "author": "mschf internet studios",
+  "permissions": [
+    "cookies",
+    "*://*.netflix.com/*",
+    "activeTab"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  },
+  "browser_action": {},
+  "web_accessible_resources": [
+    "assets/img/*",
+    "assets/videos/*",
+    "script.js",
+    "reload.js",
+    "styles.css"
+  ]
+}

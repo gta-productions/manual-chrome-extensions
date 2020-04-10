@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="37px" viewBox="0 0 73 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.4856 21.8076 0.4856 21.8076 17.9996 0 17.9996"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Application-" transform="translate(-1379.000000, -737.000000)">
+            <g id="Group-4" transform="translate(1379.000000, 736.000000)">
+                <g id="Present-Now" transform="translate(25.000000, 0.000000)">
+                    <g id="Group-3" transform="translate(0.000000, 0.514600)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M20.3076,15.3086 C20.3076,15.9656 19.7736,16.4996 19.1166,16.4996 L2.6916,16.4996 C2.0346,16.4996 1.4996,15.9656 1.4996,15.3086 L1.4996,3.1766 C1.4996,2.5196 2.0346,1.9856 2.6916,1.9856 L19.1166,1.9856 C19.7736,1.9856 20.3076,2.5196 20.3076,3.1766 L20.3076,15.3086 Z M19.1166,0.4856 L2.6916,0.4856 C1.2066,0.4856 -0.0004,1.6926 -0.0004,3.1766 L-0.0004,15.3086 C-0.0004,16.7926 1.2066,17.9996 2.6916,17.9996 L19.1166,17.9996 C20.6006,17.9996 21.8076,16.7926 21.8076,15.3086 L21.8076,3.1766 C21.8076,1.6926 20.6006,0.4856 19.1166,0.4856 L19.1166,0.4856 Z" id="Fill-1" fill="#384852" mask="url(#mask-2)"></path>
+                    </g>
+                    <polygon id="Fill-4" fill="#384852" points="10.7881 5.6337 6.4361 9.9867 8.7571 9.9867 8.7571 13.7027 12.9931 13.7027 12.9931 9.9867 15.1401 9.9867"></polygon>
+                </g>
+                <text id="Present-now" font-family="Roboto-Medium, Roboto" font-size="13" font-weight="400" fill="#384852">
+                    <tspan x="0" y="37">Present now</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

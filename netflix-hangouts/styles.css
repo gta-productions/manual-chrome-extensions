@@ -1,0 +1,88 @@
+/* netflix hangouts injected elements css */
+#top-right-btn-container {
+  position: fixed;
+  z-index: 1000;
+  right: 66px;
+  top: 0;
+  display: flex;
+  align-items: center;
+  width: 233px;
+  right: 0;
+}
+
+#top-right-btn-container video {
+  position: relative;
+  width: 100px;
+  height: 48px;
+  margin-left: auto;
+  overflow: hidden;
+  display: inline;
+  object-fit: cover;
+}
+
+#video-grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: calc(100vh - 80px);
+}
+
+.bg-video {
+  display: flex;
+	height: 50%;
+	width: 50%;
+	z-index: 9;
+	object-fit: cover;
+}
+
+#bottom-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100vw;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 88px;
+  background: #FAFAFA;
+}
+
+#bottom-left-buttons {
+  padding-left: 15px;
+}
+
+#bottom-right-buttons {
+  padding-right: 15px;
+  display: flex;
+  width: 100px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fake-button {
+  cursor: pointer;
+}
+
+/* netflix hangouts netflix elements css */
+.NFPlayer.nf-player-container {
+  object-fit: cover !important;
+  width: 50% !important;
+  height: 50% !important;
+  position: relative !important;
+  left: unset !important;
+  right: unset !important;
+  top: unset !important;
+  bottom: unset !important;
+}
+
+.VideoContainer,
+.VideoContainer + div,
+.VideoContainer video {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.VideoContainer video {
+  object-fit: cover !important;
+}

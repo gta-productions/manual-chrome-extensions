@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Camera Btn</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Application-" transform="translate(-818.000000, -728.000000)">
+            <g id="Camera-Btn" transform="translate(819.000000, 729.000000)">
+                <g id="Camera" transform="translate(18.000000, 18.000000)" fill="#384852">
+                    <polygon id="Fill-1" points="5.7015 3.1043 14.2385 11.6403 14.2385 10.8493 17.9175 14.5293 17.9175 3.8843 14.2385 7.5633 14.2385 3.1043"></polygon>
+                    <polygon id="Fill-2" points="1.1817 0.0002 0.2367 0.9472 2.3937 3.1042 -0.0003 3.1042 -0.0003 15.3092 14.2387 15.3092 14.2387 14.9492 16.6207 17.3302 17.6807 16.2702 17.6807 16.2692 17.5667 16.3832 1.1837 0.0002"></polygon>
+                </g>
+                <circle id="Oval-Copy-2" stroke="#E0E1E1" cx="27" cy="27" r="27"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
